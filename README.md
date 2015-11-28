@@ -9,7 +9,7 @@ Wordpress Website
 * Title Remover
 * Contact Form 7
 * Spacer
-* Lightbox Plus Colorbox  
+* Lightbox Plus Colorbox
 Theme: TESSERACT
 
 ### Login Admin
